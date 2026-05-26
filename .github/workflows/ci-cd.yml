@@ -1,4 +1,3 @@
-# CI/CD пайплайн для C++ HTTP-приложения
 name: CI/CD Pipeline
 on:
   push:
